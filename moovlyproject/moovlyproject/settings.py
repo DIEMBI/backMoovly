@@ -69,9 +69,9 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'ton_email@gmail.com'
-EMAIL_HOST_PASSWORD = 'ton_mdp_app'  # mot de passe d'application si Gmail
-DEFAULT_FROM_EMAIL = 'Moovly <ton_email@gmail.com>'
+EMAIL_HOST_USER = 'diembidaniel@gmail.com'
+EMAIL_HOST_PASSWORD = 'jryy wokc wihx qojj'  # mot de passe d'application si Gmail
+DEFAULT_FROM_EMAIL = 'Moovly <diembidaniel@gmail.com>'
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
